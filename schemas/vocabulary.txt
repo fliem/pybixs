@@ -1,0 +1,328 @@
+{
+    "totalCount": 8,
+    "@id": 1,
+    "objects": [
+        {
+            "description": null,
+            "ordinal": 2,
+            "permId": {
+                "vocabularyCode": "$STORAGE_FORMAT",
+                "@id": 5,
+                "code": "BDS_DIRECTORY",
+                "@type": "as.dto.vocabulary.id.VocabularyTermPermId"
+            },
+            "registrator": null,
+            "fetchOptions": {
+                "sort": null,
+                "@id": 3,
+                "vocabulary": {
+                    "sort": null,
+                    "@id": 4,
+                    "count": null,
+                    "from": null,
+                    "cacheMode": "NO_CACHE",
+                    "registrator": null,
+                    "sortBy": null,
+                    "@type": "as.dto.vocabulary.fetchoptions.VocabularyFetchOptions"
+                },
+                "count": null,
+                "from": null,
+                "cacheMode": "NO_CACHE",
+                "registrator": null,
+                "sortBy": null,
+                "@type": "as.dto.vocabulary.fetchoptions.VocabularyTermFetchOptions"
+            },
+            "@type": "as.dto.vocabulary.VocabularyTerm",
+            "modificationDate": 1506338919995,
+            "@id": 2,
+            "vocabulary": {
+                "modificationDate": 1506338919995,
+                "description": "The on-disk storage format of a data set",
+                "@id": 6,
+                "fetchOptions": {
+                    "sort": null,
+                    "@id": 7,
+                    "count": null,
+                    "from": null,
+                    "cacheMode": "NO_CACHE",
+                    "registrator": null,
+                    "sortBy": null,
+                    "@type": "as.dto.vocabulary.fetchoptions.VocabularyFetchOptions"
+                },
+                "registrationDate": 1506338919995,
+                "registrator": null,
+                "code": "$STORAGE_FORMAT",
+                "@type": "as.dto.vocabulary.Vocabulary"
+            },
+            "label": null,
+            "registrationDate": 1506338919995,
+            "official": true,
+            "code": "BDS_DIRECTORY"
+        },
+        {
+            "description": null,
+            "ordinal": 2,
+            "permId": {
+                "vocabularyCode": "SESSION_TYPE",
+                "@id": 10,
+                "code": "BEHAVIORAL",
+                "@type": "as.dto.vocabulary.id.VocabularyTermPermId"
+            },
+            "registrator": null,
+            "fetchOptions": {
+                "sort": null,
+                "@id": 9,
+                "vocabulary": 4,
+                "count": null,
+                "from": null,
+                "cacheMode": "NO_CACHE",
+                "registrator": null,
+                "sortBy": null,
+                "@type": "as.dto.vocabulary.fetchoptions.VocabularyTermFetchOptions"
+            },
+            "@type": "as.dto.vocabulary.VocabularyTerm",
+            "modificationDate": 1507562136811,
+            "@id": 8,
+            "vocabulary": {
+                "modificationDate": 1507562136810,
+                "description": null,
+                "@id": 11,
+                "fetchOptions": {
+                    "sort": null,
+                    "@id": 12,
+                    "count": null,
+                    "from": null,
+                    "cacheMode": "NO_CACHE",
+                    "registrator": null,
+                    "sortBy": null,
+                    "@type": "as.dto.vocabulary.fetchoptions.VocabularyFetchOptions"
+                },
+                "registrationDate": 1507562136810,
+                "registrator": null,
+                "code": "SESSION_TYPE",
+                "@type": "as.dto.vocabulary.Vocabulary"
+            },
+            "label": null,
+            "registrationDate": 1507562136811,
+            "official": true,
+            "code": "BEHAVIORAL"
+        },
+        {
+            "description": "F",
+            "ordinal": 3,
+            "permId": {
+                "vocabularyCode": "SEX",
+                "@id": 15,
+                "code": "F",
+                "@type": "as.dto.vocabulary.id.VocabularyTermPermId"
+            },
+            "registrator": null,
+            "fetchOptions": {
+                "sort": null,
+                "@id": 14,
+                "vocabulary": 4,
+                "count": null,
+                "from": null,
+                "cacheMode": "NO_CACHE",
+                "registrator": null,
+                "sortBy": null,
+                "@type": "as.dto.vocabulary.fetchoptions.VocabularyTermFetchOptions"
+            },
+            "@type": "as.dto.vocabulary.VocabularyTerm",
+            "modificationDate": 1508172358210,
+            "@id": 13,
+            "vocabulary": {
+                "modificationDate": 1507561359446,
+                "description": null,
+                "@id": 16,
+                "fetchOptions": {
+                    "sort": null,
+                    "@id": 17,
+                    "count": null,
+                    "from": null,
+                    "cacheMode": "NO_CACHE",
+                    "registrator": null,
+                    "sortBy": null,
+                    "@type": "as.dto.vocabulary.fetchoptions.VocabularyFetchOptions"
+                },
+                "registrationDate": 1507561359355,
+                "registrator": null,
+                "code": "SEX",
+                "@type": "as.dto.vocabulary.Vocabulary"
+            },
+            "label": "F",
+            "registrationDate": 1508172358210,
+            "official": true,
+            "code": "F"
+        },
+        {
+            "description": null,
+            "ordinal": 2,
+            "permId": {
+                "vocabularyCode": "LEVEL",
+                "@id": 20,
+                "code": "GROUP",
+                "@type": "as.dto.vocabulary.id.VocabularyTermPermId"
+            },
+            "registrator": null,
+            "fetchOptions": {
+                "sort": null,
+                "@id": 19,
+                "vocabulary": 4,
+                "count": null,
+                "from": null,
+                "cacheMode": "NO_CACHE",
+                "registrator": null,
+                "sortBy": null,
+                "@type": "as.dto.vocabulary.fetchoptions.VocabularyTermFetchOptions"
+            },
+            "@type": "as.dto.vocabulary.VocabularyTerm",
+            "modificationDate": 1508477243244,
+            "@id": 18,
+            "vocabulary": {
+                "modificationDate": 1508477243243,
+                "description": null,
+                "@id": 21,
+                "fetchOptions": {
+                    "sort": null,
+                    "@id": 22,
+                    "count": null,
+                    "from": null,
+                    "cacheMode": "NO_CACHE",
+                    "registrator": null,
+                    "sortBy": null,
+                    "@type": "as.dto.vocabulary.fetchoptions.VocabularyFetchOptions"
+                },
+                "registrationDate": 1508477243242,
+                "registrator": null,
+                "code": "LEVEL",
+                "@type": "as.dto.vocabulary.Vocabulary"
+            },
+            "label": null,
+            "registrationDate": 1508477243244,
+            "official": true,
+            "code": "GROUP"
+        },
+        {
+            "description": "M",
+            "ordinal": 4,
+            "permId": {
+                "vocabularyCode": "SEX",
+                "@id": 25,
+                "code": "M",
+                "@type": "as.dto.vocabulary.id.VocabularyTermPermId"
+            },
+            "registrator": null,
+            "fetchOptions": {
+                "sort": null,
+                "@id": 24,
+                "vocabulary": 4,
+                "count": null,
+                "from": null,
+                "cacheMode": "NO_CACHE",
+                "registrator": null,
+                "sortBy": null,
+                "@type": "as.dto.vocabulary.fetchoptions.VocabularyTermFetchOptions"
+            },
+            "@type": "as.dto.vocabulary.VocabularyTerm",
+            "modificationDate": 1508172365126,
+            "@id": 23,
+            "vocabulary": 16,
+            "label": "M",
+            "registrationDate": 1508172365126,
+            "official": true,
+            "code": "M"
+        },
+        {
+            "description": null,
+            "ordinal": 1,
+            "permId": {
+                "vocabularyCode": "SESSION_TYPE",
+                "@id": 28,
+                "code": "MRI",
+                "@type": "as.dto.vocabulary.id.VocabularyTermPermId"
+            },
+            "registrator": null,
+            "fetchOptions": {
+                "sort": null,
+                "@id": 27,
+                "vocabulary": 4,
+                "count": null,
+                "from": null,
+                "cacheMode": "NO_CACHE",
+                "registrator": null,
+                "sortBy": null,
+                "@type": "as.dto.vocabulary.fetchoptions.VocabularyTermFetchOptions"
+            },
+            "@type": "as.dto.vocabulary.VocabularyTerm",
+            "modificationDate": 1507562136811,
+            "@id": 26,
+            "vocabulary": 11,
+            "label": null,
+            "registrationDate": 1507562136811,
+            "official": true,
+            "code": "MRI"
+        },
+        {
+            "description": null,
+            "ordinal": 1,
+            "permId": {
+                "vocabularyCode": "$STORAGE_FORMAT",
+                "@id": 31,
+                "code": "PROPRIETARY",
+                "@type": "as.dto.vocabulary.id.VocabularyTermPermId"
+            },
+            "registrator": null,
+            "fetchOptions": {
+                "sort": null,
+                "@id": 30,
+                "vocabulary": 4,
+                "count": null,
+                "from": null,
+                "cacheMode": "NO_CACHE",
+                "registrator": null,
+                "sortBy": null,
+                "@type": "as.dto.vocabulary.fetchoptions.VocabularyTermFetchOptions"
+            },
+            "@type": "as.dto.vocabulary.VocabularyTerm",
+            "modificationDate": 1506338919995,
+            "@id": 29,
+            "vocabulary": 6,
+            "label": null,
+            "registrationDate": 1506338919995,
+            "official": true,
+            "code": "PROPRIETARY"
+        },
+        {
+            "description": null,
+            "ordinal": 1,
+            "permId": {
+                "vocabularyCode": "LEVEL",
+                "@id": 34,
+                "code": "SUBJECT",
+                "@type": "as.dto.vocabulary.id.VocabularyTermPermId"
+            },
+            "registrator": null,
+            "fetchOptions": {
+                "sort": null,
+                "@id": 33,
+                "vocabulary": 4,
+                "count": null,
+                "from": null,
+                "cacheMode": "NO_CACHE",
+                "registrator": null,
+                "sortBy": null,
+                "@type": "as.dto.vocabulary.fetchoptions.VocabularyTermFetchOptions"
+            },
+            "@type": "as.dto.vocabulary.VocabularyTerm",
+            "modificationDate": 1508477243243,
+            "@id": 32,
+            "vocabulary": 21,
+            "label": null,
+            "registrationDate": 1508477243243,
+            "official": true,
+            "code": "SUBJECT"
+        }
+    ],
+    "@type": "as.dto.common.search.SearchResult"
+}

@@ -1,0 +1,53 @@
+{
+    "modificationDate": 1507303142913,
+    "description": null,
+    "@id": 2,
+    "permId": {
+        "@id": 7,
+        "permId": "SUBJECT_COLLECTION",
+        "@type": "as.dto.entitytype.id.EntityTypePermId"
+    },
+    "fetchOptions": {
+        "sort": null,
+        "@id": 3,
+        "count": null,
+        "from": null,
+        "propertyAssignments": {
+            "sort": null,
+            "@id": 4,
+            "count": null,
+            "from": null,
+            "propertyType": {
+                "sort": null,
+                "@id": 5,
+                "vocabulary": {
+                    "sort": null,
+                    "@id": 6,
+                    "count": null,
+                    "from": null,
+                    "cacheMode": "NO_CACHE",
+                    "registrator": null,
+                    "sortBy": null,
+                    "@type": "as.dto.vocabulary.fetchoptions.VocabularyFetchOptions"
+                },
+                "materialType": null,
+                "count": null,
+                "from": null,
+                "cacheMode": "NO_CACHE",
+                "registrator": null,
+                "sortBy": null,
+                "@type": "as.dto.property.fetchoptions.PropertyTypeFetchOptions"
+            },
+            "cacheMode": "NO_CACHE",
+            "registrator": null,
+            "sortBy": null,
+            "@type": "as.dto.property.fetchoptions.PropertyAssignmentFetchOptions"
+        },
+        "cacheMode": "NO_CACHE",
+        "sortBy": null,
+        "@type": "as.dto.experiment.fetchoptions.ExperimentTypeFetchOptions"
+    },
+    "propertyAssignments": [],
+    "code": "SUBJECT_COLLECTION",
+    "@type": "as.dto.experiment.ExperimentType"
+}
